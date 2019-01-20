@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3ab3f77eecae6a6880a73b50ba3a2cf9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ross/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5344e312a79e87c96d4e53297c7bba8e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d3479978ca884f172944f64acafda3b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72e1e8577f8e5baad203687caca98098/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e0c1aa645fba49b4cd4c9a6911319952/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77d36362a8f136c6a913992900428f11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/22ec6d663300eb0be055494916f06d80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7a30b16dcac0158d92779afc361a2117/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9bc1951d533777e5f897d03e3c412e77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/547aa95b665744478084e56a6faa5d0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7420e10400e94a79880e9aaa35f245b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef2ab600df33c41b4fa4c5fbfa24bc12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6302796303ab794e79239fa7796e8655/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e90b9b8971864e4f07eca111227edb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0350276cab95800a5a7567c1423f7ae1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/786d15e41b4a6e5afeb8e1698106aca1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0243925983442ed1e0307f8966e3d9fc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5e608fab08ede6a340d19ad243df72e2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/acacecf0e7404cccc5d41cede5436a3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/63da93aa8470af8f2f0621d5301299c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/af71a1bb4159b5f84bb8fa6b3b360461/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/763fe5a213fd764010c38401233e9a34/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fa81d735e57546cffc0444dbc267c3d8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c66b66ae4c3e609f251238469e85b112/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6426845c00381bb14c911d45ed018b12/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7bc136f94ae85a9de569aeffbe92463b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/aa365196a56fe9808f1d4efc6eccd4b2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ross/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5344e312a79e87c96d4e53297c7bba8e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ross/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5344e312a79e87c96d4e53297c7bba8e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/786d15e41b4a6e5afeb8e1698106aca1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/786d15e41b4a6e5afeb8e1698106aca1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0243925983442ed1e0307f8966e3d9fc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0243925983442ed1e0307f8966e3d9fc/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/786d15e41b4a6e5afeb8e1698106aca1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.ross.test.MainActivity
+ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3ab3f77eecae6a6880a73b50ba3a2cf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3ab3f77eecae6a6880a73b50ba3a2cf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ross/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5344e312a79e87c96d4e53297c7bba8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ross/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5344e312a79e87c96d4e53297c7bba8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d3479978ca884f172944f64acafda3b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d3479978ca884f172944f64acafda3b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72e1e8577f8e5baad203687caca98098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/72e1e8577f8e5baad203687caca98098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e0c1aa645fba49b4cd4c9a6911319952/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e0c1aa645fba49b4cd4c9a6911319952/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77d36362a8f136c6a913992900428f11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77d36362a8f136c6a913992900428f11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/22ec6d663300eb0be055494916f06d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/22ec6d663300eb0be055494916f06d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7a30b16dcac0158d92779afc361a2117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7a30b16dcac0158d92779afc361a2117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9bc1951d533777e5f897d03e3c412e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9bc1951d533777e5f897d03e3c412e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/547aa95b665744478084e56a6faa5d0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/547aa95b665744478084e56a6faa5d0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7420e10400e94a79880e9aaa35f245b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7420e10400e94a79880e9aaa35f245b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef2ab600df33c41b4fa4c5fbfa24bc12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef2ab600df33c41b4fa4c5fbfa24bc12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6302796303ab794e79239fa7796e8655/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6302796303ab794e79239fa7796e8655/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e90b9b8971864e4f07eca111227edb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e90b9b8971864e4f07eca111227edb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0350276cab95800a5a7567c1423f7ae1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0350276cab95800a5a7567c1423f7ae1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/786d15e41b4a6e5afeb8e1698106aca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/786d15e41b4a6e5afeb8e1698106aca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0243925983442ed1e0307f8966e3d9fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0243925983442ed1e0307f8966e3d9fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5e608fab08ede6a340d19ad243df72e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5e608fab08ede6a340d19ad243df72e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/acacecf0e7404cccc5d41cede5436a3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/acacecf0e7404cccc5d41cede5436a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/63da93aa8470af8f2f0621d5301299c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/63da93aa8470af8f2f0621d5301299c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/af71a1bb4159b5f84bb8fa6b3b360461/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/af71a1bb4159b5f84bb8fa6b3b360461/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/763fe5a213fd764010c38401233e9a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/763fe5a213fd764010c38401233e9a34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fa81d735e57546cffc0444dbc267c3d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fa81d735e57546cffc0444dbc267c3d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c66b66ae4c3e609f251238469e85b112/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c66b66ae4c3e609f251238469e85b112/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6426845c00381bb14c911d45ed018b12/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6426845c00381bb14c911d45ed018b12/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7bc136f94ae85a9de569aeffbe92463b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ross/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7bc136f94ae85a9de569aeffbe92463b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/aa365196a56fe9808f1d4efc6eccd4b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ross/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/aa365196a56fe9808f1d4efc6eccd4b2/AndroidManifest.xml:20:5-44
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+		ADDED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ross/Documents/github/test/app/src/main/AndroidManifest.xml

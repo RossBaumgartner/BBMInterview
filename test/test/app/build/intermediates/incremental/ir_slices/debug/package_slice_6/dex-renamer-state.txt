@@ -1,0 +1,4 @@
+#Tue Jan 08 13:05:34 EST 2019
+base.0=/home/ross/Documents/github/test/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
